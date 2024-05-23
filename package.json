@@ -1,0 +1,23 @@
+{
+  "name": "texticco",
+  "version": "1.0.0",
+  "description": "An npm package to use Visually Engaging Animations on Text",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freake-n/texticco.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sabuj Dutta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/freake-n/texticco/issues"
+  },
+  "homepage": "https://github.com/freake-n/texticco#readme"
+}
