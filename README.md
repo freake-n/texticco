@@ -6,16 +6,14 @@ _<h1 style="color:red; font-size:40px; margin-top:0">texticco - Make Your Text P
 
 # *Table of Contents*
 
-
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Installation](#uinstallationu)
-- [Getting Started](#ugetting-startedu)
-- [Animation Types](#uanimation-typesu)
-- [Usage](#uusageu-)
-- [Contributing](#ucontributingu)
-- [License](#ulicenseu)
-
+  - [Introduction](#uintroductionu)
+  - [Key Features](#ukey-featuresu)
+  - [Installation](#uinstallationu)
+  - [Getting Started](#ugetting-startedu)
+  - [Animation Types](#uanimation-typesu)
+  - [Usage](#uusageu-)
+  - [Contributing](#ucontributingu)
+  - [License](#ulicenseu)
 
 ---
 
