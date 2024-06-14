@@ -1,13 +1,31 @@
 _<h1 style="color:red; font-size:40px; margin-top:0">texticco - Make Your Text Pop with Style</h1>_
+
+![MasterHead](assets/Texticco.gif)
+
 ---
 
-## Introduction
+# *Table of Contents*
+
+
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Installation](#uinstallationu)
+- [Getting Started](#ugetting-startedu)
+- [Animation Types](#uanimation-typesu)
+- [Usage](#uusageu-)
+- [Contributing](#ucontributingu)
+- [License](#ulicenseu)
+
+
+---
+
+## <u>Introduction</u>
 
 >[texticco](#) is an easy-to-use **NPM** package designed for creating stunning text animations with minimal effort. Whether you're a web developer looking to add flair to your projects or a designer wanting to enhance user engagement, Texticco offers a variety of animations to make your text stand out.
 
 ---
 
-## Key Features
+## <u>Key Features</u>
 
 - **Dynamic Animations**: Easily animate your text with a variety of pre-built effects.
 - **Performance Optimized**: Enjoy smooth animations without compromising on speed.
