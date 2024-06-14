@@ -1,7 +1,7 @@
 {
   "name": "texticco",
   "version": "1.0.1",
-  "description": "Enhance web applications with seamless, visually engaging text animations.",
+  "description": "NPM pakage to enhance web applications with seamless, visually engaging text animations.",
   "main": "script.js",
   "type": "module",
   "scripts": {
