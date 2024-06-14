@@ -4,19 +4,6 @@ _<h1 style="color:red; font-size:40px; margin-top:0">texticco - Make Your Text P
 
 ---
 
-# *Table of Contents*
-
-  - [Introduction](#uintroductionu)
-  - [Key Features](#ukey-featuresu)
-  - [Installation](#uinstallationu)
-  - [Getting Started](#ugetting-startedu)
-  - [Animation Types](#uanimation-typesu)
-  - [Usage](#uusageu-)
-  - [Contributing](#ucontributingu)
-  - [License](#ulicenseu)
-
----
-
 ## <u>Introduction</u>
 
 >[texticco](#) is an easy-to-use **NPM** package designed for creating stunning text animations with minimal effort. Whether you're a web developer looking to add flair to your projects or a designer wanting to enhance user engagement, Texticco offers a variety of animations to make your text stand out.
